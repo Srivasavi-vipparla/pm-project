@@ -13,7 +13,9 @@ Introduce your team members (include a photo for each):
 
  <img src="vasu .png" alt="drawing" width="150" style="border-radius:50%" />
 
-[Sri Vasavi Vipparla](https://github.com/Srivasavi-vipparla)  
+[Sri Vasavi Vipparla](https://github.com/Srivasavi-vipparla)
+[Manoj Nuvvala](https://github.com/manojnuvvala)
+<img src="manoj.jpg" alt="MANOJ" width="150" style="border-radius:50%"/>
 
 
 Project Charter
