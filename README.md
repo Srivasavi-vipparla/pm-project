@@ -11,7 +11,7 @@
 - Our Team:
 
 *  GitHub profile:https://github.com/Srivasavi-vipparla
-*  Photo : <img src="pictures/vasu.png" alt="drawing" width="150" style="border-radius:50%" /> 
+*  Photo : <img src="pictures/pic.jpeg" alt="drawing" width="150" style="border-radius:50%" /> 
 <p>Vipparla,Sri Vasavi as a Product Onwer.</p>
 <p>Nuvvala,Manoj as a Scrum Master.</p>
 <p>Ramavaram,Abhilash as a Developer.</p>
