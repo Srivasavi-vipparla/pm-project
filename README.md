@@ -9,7 +9,13 @@ Our Project
 Introduce your project title and tag line
 One paragraph: short advertisement/summary of your proposed project
 Our Team
-Introduce your team members (include a photo for each)
+Introduce your team members (include a photo for each):
+
+ <img src="vasu .png" alt="drawing" width="150" style="border-radius:50%" />
+
+[Sri Vasavi Vipparla](https://github.com/Srivasavi-vipparla)  
+
+
 Project Charter
 Briefly summarize your Charter and link to your CHARTER.md for more details.
 Scope
