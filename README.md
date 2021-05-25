@@ -1,4 +1,11 @@
-Table of contents
+<ol>Table of contents
+<li>Our Project</li>
+<li>Our Team</li>
+<li>Project Charter</li>
+<li>Scope</li>
+<li>Schedule</li>
+<li>Budget</li>
+</ol>
 Our Project
 Our Team:
 Vipparla,Sri Vasavi as a Product Onwer.
