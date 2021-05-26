@@ -15,7 +15,7 @@
 
 Description : Tick-Tack-Toe is a fun game in free time .
 
-> Our Team
+# Our Team
 
 <img src="pictures/vasu .png" alt="drawing" width="150" height ="200" style="border-radius:50%" /><img src="pictures/manoj.jpg" alt="drawing" width="150" height ="200" style="border-radius:50%" />               <img src="/pictures/Abhi.png" alt="drawing" width="150"   height ="200"  style="border-radius:50%" />                                              <img src="pictures/profile.jpg" alt="drawing" width="150" height ="200" style="border-radius:50%" />                             
   
