@@ -14,7 +14,7 @@ Description : Tick-Tack-Toe is a fun game in free time .
 
 > Our Team
 
-<img src="pictures/vasu .png" alt="drawing" width="150" style="border-radius:50%" />               <img src="/pictures/Abhi.png" alt="drawing" width="150" style="border-radius:50%" />               <img src="pictures/profile.jpg" alt="drawing" width="150" style="border-radius:50%" />               
+<img src="pictures/vasu .png" alt="drawing" width="150" style="border-radius:50%" />               <img src="/pictures/Abhi.png" alt="drawing" width="150" style="border-radius:50%" />               <img src="pictures/profile.jpg" alt="drawing" width="150" style="border-radius:50%" />               <img src="pictures/manoj.jpg" alt="drawing" width="150" style="border-radius:50%" />              
   
   [Sri Vasavi Vipparla](https://github.com/Srivasavi-vipparla)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Abhilash Ramavaram](https://https://github.com/AbhiRam0099/AbhilashRamavaram)  &nbsp;&nbsp;&nbsp;&nbsp;   [Arla Madhu Babu](https://github.com/shivani-ta)  [MANOJ NUVVALA](https://github.com/manojnuvvala)
 
