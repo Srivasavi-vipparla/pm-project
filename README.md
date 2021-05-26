@@ -20,6 +20,8 @@ Description : Tick-Tack-Toe is a fun game in free time .
 
 <p>Nuvvala,Manoj as a Scrum Master.</p>
 <p>Arla,Madhu Babu as a Designer.</p>
+<img src="pictures/profile.jpg" alt="drawing" width="150" style="border-radius:50%" />
+
 - Project Charter
 - Scope
 - Schedule:
