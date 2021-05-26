@@ -1,8 +1,4 @@
 
-# Team name: noughts and crosses
-
-> Table of contents
-
 <li>Our Project</li>
 <li>Our Team</li>
 <li>Project Charter</li>
@@ -20,13 +16,13 @@ Description : Tick-Tack-Toe is a fun game in free time .
 
 <img src="pictures/vasu .png" alt="drawing" width="150" style="border-radius:50%" />               <img src="/pictures/Abhi.png" alt="drawing" width="150" style="border-radius:50%" />               <img src="pictures/profile.jpg" alt="drawing" width="150" style="border-radius:50%" />               
   
-  [Sri Vasavi Vipparla](https://github.com/Srivasavi-vipparla)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Abhilash Ramavaram](https://https://github.com/AbhiRam0099/AbhilashRamavaram)  &nbsp;&nbsp;&nbsp;&nbsp;   [Arla Madhu Babu](https://github.com/shivani-ta)  
+  [Sri Vasavi Vipparla](https://github.com/Srivasavi-vipparla)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Abhilash Ramavaram](https://https://github.com/AbhiRam0099/AbhilashRamavaram)  &nbsp;&nbsp;&nbsp;&nbsp;   [Arla Madhu Babu](https://github.com/shivani-ta)  [MANOJ NUVVALA](https://github.com/manojnuvvala)
 
 
 
 <p>Sri Vasavi Vipparla As a Product Manager</p>
 <p>Nuvvala,Manoj as a Scrum Master.</p>
-<Abhilash Ramavaram as a Developer</p>
+<P>Abhilash Ramavaram as a Developer</p>
 <p>Arla,Madhu Babu as a Designer.</p>
 
 
@@ -34,6 +30,20 @@ Description : Tick-Tack-Toe is a fun game in free time .
 ## Scope
 ## Schedule:
 ## Budget
+
+| ID NO  | MEMBER             | ROLE          |  PAY FOR HOUR         | NO OF HOURS PER WEEK | NO OF WEEKS  |  CALCULATED PAY         |   |
+|--------|--------------------|---------------|-----------------------|----------------------|--------------|-------------------------|---|
+| 101    | Vipparla,Sri Vasav | Product Onwer |  $           100.00   | 5                    | 14           |  $            7,000.00  |   |
+| 102    | Nuvvala,Manoj      | Scrum Master  |  $           110.00   | 10                   | 14           |  $          15,400.00   |   |
+| 103    | Ramavaram,Abhilash | Developer     |  $             85.00  | 20                   | 14           |  $          23,800.00   |   |
+| 104    | Arla,Madhu   Babu  | Designer      |  $             80.00  | 15                   | 14           |  $          16,800.00   |   |
+|        |                    |               |                       |                      |              |                         |   |
+|        |                    |               |                       |                      |              |                         |   |
+|        |                    |               |                       |                      | TOTAL BUDGET |  $          63,000.00   |   |
+|        |                    |               |                       |                      |              |                         |   |
+|        |                    |               |                       |                      |              |                         |   |
+
+
 # Summary:
 
 ## The game play will be simple.
