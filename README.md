@@ -1,11 +1,13 @@
 # Team name: TickTack
 
-<li>Our Project</li>
-<li>Our Team</li>
-<li>Project Charter</li>
-<li>Scope</li>
-<li>Schedule</li>
-<li>Budget</li>
+| S.R NO | TABLE OF CONTENT |
+|--------|------------------|
+| 1      | Our Project      |
+| 2      | Our Team         |
+| 3      | Project Charter  |
+| 4      | Scope            |
+| 5      | Schedule         |
+| 6      | Budget           |
 
 # Our Project : Tick-Tack-Toe
 
