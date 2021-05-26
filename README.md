@@ -32,6 +32,7 @@ Description : Tick-Tack-Toe is a fun game in free time .
 ## Project Charter
 ## Scope
 ## Schedule:
+ [Schedule](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/schedule.md)  
 ## Budget
 
 | ID NO  | MEMBER             | ROLE          |  PAY FOR HOUR         | NO OF HOURS PER WEEK | NO OF WEEKS  |  CALCULATED PAY         |   |
