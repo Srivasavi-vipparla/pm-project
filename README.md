@@ -1,3 +1,6 @@
+
+# Team name: noughts and crosses
+
 > Table of contents
 
 <li>Our Project</li>
