@@ -21,6 +21,14 @@
 ## Closing
 * Will deploy the project.
 
+
+
+WBS: 
+<img src="WBS.JPG" alt="drawing" style="border-radius:50%" />
+
+[WBS Plan](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/WBS/TicTacToe.mpp)
+  
+
 [WBS Reference](https://online.visual-paradigm.com/diagrams/templates/work-breakdown-structure/work-breakdown-structure-diagram-template/)  
 
 
