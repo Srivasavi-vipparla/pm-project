@@ -1,13 +1,14 @@
 # Team name: TickTack
 
+
 | S.R NO | TABLE OF CONTENT |
-|--------|------------------|
-| 1      | Our Project      |
-| 2      | Our Team         |
-| 3      | Project Charter  |
-| 4      | Scope            |
-| 5      | Schedule         |
-| 6      | Budget           |
+| - | - |
+| 1 | Our Project |
+| 2 | Our Team |
+| 3 | Project Charter |
+| 4 | Scope |
+| 5 | Schedule |
+| 6 | Budget |
 
 # Our Project : Tick-Tack-Toe
 
@@ -17,36 +18,37 @@ Description : Tick-Tack-Toe is a fun game in free time .
 
 # Our Team
 
-<img src="pictures/vasu .png" alt="drawing" width="150" height ="200" style="border-radius:50%" /><img src="pictures/manoj.jpg" alt="drawing" width="150" height ="200" style="border-radius:50%" />               <img src="/pictures/Abhi.png" alt="drawing" width="150"   height ="200"  style="border-radius:50%" />                                              <img src="pictures/profile.jpg" alt="drawing" width="150" height ="200" style="border-radius:50%" />                             
-  
-  [Sri Vasavi Vipparla](https://github.com/Srivasavi-vipparla)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MANOJ NUVVALA](https://github.com/manojnuvvala)   &nbsp;&nbsp;&nbsp;&nbsp;[Abhilash Ramavaram](https://https://github.com/AbhiRam0099/AbhilashRamavaram)  &nbsp;&nbsp;&nbsp;&nbsp;   [Arla Madhu Babu](https://github.com/Madhuarla)  
+<img src="pictures/vasu .png" alt="drawing" width="150" height ="200" style="border-radius:50%" /><img src="pictures/manoj.jpg" alt="drawing" width="150" height ="200" style="border-radius:50%" />               <img src="/pictures/Abhi.png" alt="drawing" width="150"   height ="200"  style="border-radius:50%" />                                              <img src="pictures/profile.jpg" alt="drawing" width="150" height ="200" style="border-radius:50%" />
 
-
+[Sri Vasavi Vipparla](https://github.com/Srivasavi-vipparla)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MANOJ NUVVALA](https://github.com/manojnuvvala)   &nbsp;&nbsp;&nbsp;&nbsp;[Abhilash Ramavaram](https://https://github.com/AbhiRam0099/AbhilashRamavaram)  &nbsp;&nbsp;&nbsp;&nbsp;   [Arla Madhu Babu](https://github.com/Madhuarla)
 
 <p>Sri Vasavi Vipparla As a Product Manager</p>
 <p>Nuvvala,Manoj as a Scrum Master.</p>
 <P>Abhilash Ramavaram as a Developer</p>
 <p>Arla,Madhu Babu as a Designer.</p>
 
+## Project Charter [Click here for project charter](/pm-s04-03-project\charter.md)
 
-## Project Charter
 ## Scope
+
 ## Schedule:
- [Schedule](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/schedule.md)  
+
+[Schedule](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/schedule.md)
+
 ## Budget
 
-| ID NO  | MEMBER             | ROLE          |  PAY FOR HOUR         | NO OF HOURS PER WEEK | NO OF WEEKS  |  CALCULATED PAY         |   |
-|--------|--------------------|---------------|-----------------------|----------------------|--------------|-------------------------|---|
-| 101    | Vipparla,Sri Vasav | Product Onwer |  $           100.00   | 5                    | 14           |  $            7,000.00  |   |
-| 102    | Nuvvala,Manoj      | Scrum Master  |  $           110.00   | 10                   | 14           |  $          15,400.00   |   |
-| 103    | Ramavaram,Abhilash | Developer     |  $             85.00  | 20                   | 14           |  $          23,800.00   |   |
-| 104    | Arla,Madhu   Babu  | Designer      |  $             80.00  | 15                   | 14           |  $          16,800.00   |   |
-|        |                    |               |                       |                      |              |                         |   |
-|        |                    |               |                       |                      |              |                         |   |
-|        |                    |               |                       |                      | TOTAL BUDGET |  $          63,000.00   |   |
-|        |                    |               |                       |                      |              |                         |   |
-|        |                    |               |                       |                      |              |                         |   |
 
+| ID NO | MEMBER | ROLE | PAY FOR HOUR | NO OF HOURS PER WEEK | NO OF WEEKS | CALCULATED PAY |   |
+| - | - | - | - | - | - | - | - |
+| 101 | Vipparla,Sri Vasav | Product Onwer | $           100.00 | 5 | 14 | $            7,000.00 |   |
+| 102 | Nuvvala,Manoj | Scrum Master | $           110.00 | 10 | 14 | $          15,400.00 |   |
+| 103 | Ramavaram,Abhilash | Developer | $             85.00 | 20 | 14 | $          23,800.00 |   |
+| 104 | Arla,Madhu   Babu | Designer | $             80.00 | 15 | 14 | $          16,800.00 |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   | TOTAL BUDGET | $          63,000.00 |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
 
 # Summary:
 
