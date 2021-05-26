@@ -24,7 +24,10 @@
 
 
 WBS: 
-<img src="WBS.JPG" alt="drawing" style="border-radius:50%" />
+<img src="WBS1.JPG" alt="drawing" style="border-radius:50%" />
+
+
+<img src="WBS2.JPG" alt="drawing" style="border-radius:50%" />
 
 [WBS Plan](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/WBS/TicTacToe.mpp)
   
