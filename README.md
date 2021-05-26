@@ -54,10 +54,10 @@ Description : Tick-Tack-Toe is a fun game in free time .
 > Closing
 * Deploy the final version of project
 
-<img src="WBS1.JPG" alt="drawing" style="border-radius:50%" />
+<img src="WBS/WBS1.JPG" alt="drawing" style="border-radius:50%" />
 
 
-<img src="WBS2.JPG" alt="drawing" style="border-radius:50%" />
+<img src="WBS/WBS2.JPG" alt="drawing" style="border-radius:50%" />
 
 [WBS.md](https://github.com/Srivasavi-vipparla/pm-s04-03-project/edit/main/WBS/wbs.md)
 
