@@ -12,14 +12,16 @@
 ## Execution
 * In this stage we are developing the code for the project.
 * And implemeting some testcases
+* Deploy the first version of project
 
 ## Monitoring and controlling
 * We are running the code with all possible testcases 
 * If need any changes in our code, we will implement those modules again and test.
+* Deploy the second version of project
 * If everything is correct, Will do documentation for the Project and Plan for Release.
 *
 ## Closing
-* Will deploy the project.
+* Deploy the final version of project
 
 
 
