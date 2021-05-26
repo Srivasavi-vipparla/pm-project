@@ -13,22 +13,24 @@
 
 Description : Tick-Tack-Toe is a fun game in free time .
 
-* Photo : <img src="pictures/pic.jpeg" alt="drawing" width="150" style="border-radius:50%" />
-* [Sri Vasavi Vipparla](https://github.com/Srivasavi-vipparla)  :as a Product Onwer
-* Photo : <img src="/pictures/Abhi.png"  width="150" style="border-radius:50%" />
-* [Abhilash Ramavaram](https://https://github.com/AbhiRam0099/AbhilashRamavaram):as a Developer
+> Our Team
 
+<img src="pictures/vasu .png" alt="drawing" width="150" style="border-radius:50%" />               <img src="/pictures/Abhi.png" alt="drawing" width="150" style="border-radius:50%" />               <img src="pictures/profile.jpg" alt="drawing" width="150" style="border-radius:50%" />               
+  
+  [Sri Vasavi Vipparla](https://github.com/Srivasavi-vipparla)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Abhilash Ramavaram](https://https://github.com/AbhiRam0099/AbhilashRamavaram)  &nbsp;&nbsp;&nbsp;&nbsp;   [Arla Madhu Babu](https://github.com/shivani-ta)  
+
+
+
+<p>Sri Vasavi Vipparla As a Product Manager</p>
 <p>Nuvvala,Manoj as a Scrum Master.</p>
+<Abhilash Ramavaram as a Developer</p>
 <p>Arla,Madhu Babu as a Designer.</p>
-* Photo : <img src="pictures/profile.jpg" alt="drawing" width="150" style="border-radius:50%" />
-- Project Charter
-- Scope
-- Schedule:
 
-- Budget
-- Our Project
-- Introduce your project title and tag line
 
+## Project Charter
+## Scope
+## Schedule:
+## Budget
 # Summary:
 
 ## The game play will be simple.
