@@ -1,3 +1,4 @@
+# Team name: TickTack
 
 <li>Our Project</li>
 <li>Our Team</li>
