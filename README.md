@@ -15,7 +15,7 @@ Description : Tick-Tack-Toe is a fun game in free time .
 
 * Photo : <img src="pictures/pic.jpeg" alt="drawing" width="150" style="border-radius:50%" />
 * [Sri Vasavi Vipparla](https://github.com/Srivasavi-vipparla)  :as a Product Onwer
-* Photo : <img src="/pictures/Abhi.jpeg"  width="150" style="border-radius:50%" />
+* Photo : <img src="/pictures/Abhi.png"  width="150" style="border-radius:50%" />
 * [Abhilash Ramavaram](https://https://github.com/AbhiRam0099/AbhilashRamavaram):as a Developer
 
 <p>Nuvvala,Manoj as a Scrum Master.</p>
