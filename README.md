@@ -28,7 +28,7 @@ Description : Tick-Tack-Toe is a fun game in free time .
 <p>Arla,Madhu Babu as a Designer.</p>
 
 ## Project Charter
-<img src="projectcharter.PNG" alt="drawing" width="150" height ="200" style="border-radius:50%" />
+<img src="projectcharter.PNG" alt="drawing"  style="border-radius:50%" />
 
 ## Scope:
 > Initiating
