@@ -3,7 +3,7 @@
 
 | S.R NO | TABLE OF CONTENT |
 | - | - |
-| 1 | Our Project |
+| 1 | [Our Project](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/README.md#our-project--tick-tack-toe) |
 | 2 | Our Team |
 | 3 | Project Charter |
 | 4 | Scope |
