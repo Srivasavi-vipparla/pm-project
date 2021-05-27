@@ -8,7 +8,7 @@
 | 3 | [Project Charter](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/README.md#project-charter) |
 | 4 | [Scope](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/README.md#scope) |
 | 5 | [Schedule](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/README.md#schedule) |
-| 6 | Budget |
+| 6 | [Budget](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/README.md#budget) |
 
 # Our Project : Tick-Tack-Toe
 
