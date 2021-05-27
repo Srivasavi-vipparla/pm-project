@@ -16,6 +16,17 @@
 
 Description : Tick-Tack-Toe is a fun game in free time .
 
+## Summary:
+
+### The game play will be simple.
+
+* There will be a simple square game board divided into nine tiles or grid spaces.
+* When the player clicks on one of the grid spaces, it will be assigned either an "X" or an "O".
+* The game is over when one player claims 3 grid spaces in a row or there are no moves left.
+* At the start of the game, the board will not be active until the first player has chosen whether they are to play "X" or "O".
+* A panel will indicate whose turn it is. When the game is over, a banner will display the winner or announce a draw if no one wins.
+* A restart button will be displayed when the game is over, returning the game to the starting state when clicked.
+
 # Our Team
 
 <img src="pictures/vasu .png" alt="drawing" width="150" height ="200" style="border-radius:50%" /><img src="pictures/manoj.jpg" alt="drawing" width="150" height ="200" style="border-radius:50%" />               <img src="/pictures/Abhi.png" alt="drawing" width="150"   height ="200"  style="border-radius:50%" />                                              <img src="pictures/profile.jpg" alt="drawing" width="150" height ="200" style="border-radius:50%" />
@@ -71,6 +82,27 @@ Description : Tick-Tack-Toe is a fun game in free time .
 <p>Project end   date - 8/31/2021</p>
 <p>Total number of weeks - 14 weeks</p>
 
+#### Initiation
+
+<img src="pictures/initiation.PNG" alt="drawing"  style="border-radius:50%" />
+
+#### Initiation
+
+<img src="pictures/planning.PNG" alt="drawing"  style="border-radius:50%" />
+
+#### Execution
+
+<img src="pictures/Execution.PNG" alt="drawing"  style="border-radius:50%" />
+
+#### Monitoring and control
+
+<img src="pictures/monitoringandcontrol.PNG" alt="drawing"  style="border-radius:50%" />
+
+#### Closing
+
+<img src="pictures/closing.PNG" alt="drawing"  style="border-radius:50%" />
+
+
 [Schedule](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/schedule.md)
 
 ## Budget
@@ -88,16 +120,8 @@ Description : Tick-Tack-Toe is a fun game in free time .
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 
-# Summary:
 
-## The game play will be simple.
 
-* There will be a simple square game board divided into nine tiles or grid spaces.
-* When the player clicks on one of the grid spaces, it will be assigned either an "X" or an "O".
-* The game is over when one player claims 3 grid spaces in a row or there are no moves left.
-* At the start of the game, the board will not be active until the first player has chosen whether they are to play "X" or "O".
-* A panel will indicate whose turn it is. When the game is over, a banner will display the winner or announce a draw if no one wins.
-* A restart button will be displayed when the game is over, returning the game to the starting state when clicked.
 
 # References
 
