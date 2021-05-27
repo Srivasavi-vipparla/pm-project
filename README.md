@@ -67,6 +67,10 @@ Description : Tick-Tack-Toe is a fun game in free time .
 
 ## Schedule:
 
+Project start date - 5/25/2021
+Project end   date - 8/31/2021
+Total number of weeks - 14 weeks
+
 [Schedule](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/schedule.md)
 
 ## Budget
