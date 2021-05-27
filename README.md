@@ -86,7 +86,7 @@ Description : Tick-Tack-Toe is a fun game in free time .
 
 <img src="pictures/initiation.PNG" alt="drawing"  style="border-radius:50%" />
 
-#### Initiation
+#### Planning
 
 <img src="pictures/planning.PNG" alt="drawing"  style="border-radius:50%" />
 
