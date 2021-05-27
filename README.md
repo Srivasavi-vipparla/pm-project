@@ -121,6 +121,7 @@ Description : Tick-Tack-Toe is a fun game in free time .
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 
+<img src="budgettictack.PNG" alt="drawing"  style="border-radius:50%" />
 [Budget Excel](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/BUDGET.xlsx)
 
 
