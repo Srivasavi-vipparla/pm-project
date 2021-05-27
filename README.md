@@ -103,7 +103,7 @@ Description : Tick-Tack-Toe is a fun game in free time .
 <img src="pictures/closing.PNG" alt="drawing"  style="border-radius:50%" />
 
 
-[Schedule](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/schedule.md)
+
 
 ## Budget
 
