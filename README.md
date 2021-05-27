@@ -5,7 +5,7 @@
 | - | - |
 | 1 | [Our Project](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/README.md#our-project--tick-tack-toe) |
 | 2 | [Our Team](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/README.md#our-team) |
-| 3 | Project Charter |
+| 3 | [Project Charter](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/README.md#project-charter) |
 | 4 | Scope |
 | 5 | Schedule |
 | 6 | Budget |
