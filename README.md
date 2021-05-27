@@ -98,3 +98,8 @@ Description : Tick-Tack-Toe is a fun game in free time .
 * At the start of the game, the board will not be active until the first player has chosen whether they are to play "X" or "O".
 * A panel will indicate whose turn it is. When the game is over, a banner will display the winner or announce a draw if no one wins.
 * A restart button will be displayed when the game is over, returning the game to the starting state when clicked.
+
+# References
+
+* [Summary reference](https://learn.unity.com/tutorial/creating-a-tic-tac-toe-game-using-only-ui-components#:~:text=Scope%20of%20the%20Game&text=The%20game%20is%20over%20when,X%22%20or%20%22O%22.)
+* [WBS reference](https://online.visual-paradigm.com/diagrams/templates/work-breakdown-structure/work-breakdown-structure-diagram-template/)
