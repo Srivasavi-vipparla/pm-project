@@ -13,7 +13,7 @@
 
 # Our Project : Tick-Tack-Toe
 
-> TagLine : ***leisure*** a ***pleasure***
+>## TagLine : ***leisure*** a ***pleasure***
 
 Description : Tick-Tack-Toe is a fun game in free time .
 
