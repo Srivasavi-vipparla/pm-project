@@ -41,6 +41,7 @@ Description : Tick-Tack-Toe is a fun game in free time .
 
 ## Project Charter
 <img src="projectcharter.PNG" alt="drawing"  style="border-radius:50%" />
+[projectcharter.md](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/projectcharter/Project-Charter.xlsx)
 
 ## Scope:
 > Initiating
