@@ -129,6 +129,7 @@ Description : Tick-Tack-Toe is a fun game in free time .
 
 * [Summary reference](https://learn.unity.com/tutorial/creating-a-tic-tac-toe-game-using-only-ui-components#:~:text=Scope%20of%20the%20Game&text=The%20game%20is%20over%20when,X%22%20or%20%22O%22.)
 * [WBS reference](https://online.visual-paradigm.com/diagrams/templates/work-breakdown-structure/work-breakdown-structure-diagram-template/)
+* [Project charter](https://www.google.com/search?q=project+charter&rlz=1C1GCEA_enUS936US936&sxsrf=ALeKk018s_TQrL4FV7uTXbaYaNxc7SFBtg:1622249690869&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjVir6E1-3wAhWGLc0KHe1CDTEQ_AUoAXoECAEQAw&biw=1280&bih=578&dpr=1.5#imgrc=ipp1sJsYJoBDsM)
 
 
 [To the top](https://github.com/Srivasavi-vipparla/pm-s04-03-project/blob/main/README.md#team-name-ticktack)
