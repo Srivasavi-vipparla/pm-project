@@ -68,10 +68,10 @@ Description : Tick-Tack-Toe is a fun game in free time .
 > Closing
 * Deploy the final version of project
 
-<img src="WBS/WBS1.JPG" alt="drawing" style="border-radius:50%" />
+<img src="WBS/wbs 1.PNG" alt="drawing" style="border-radius:50%" />
 
 
-<img src="WBS/WBS2.JPG" alt="drawing" style="border-radius:50%" />
+<img src="WBS/wbs 2.PNG" alt="drawing" style="border-radius:50%" />
 
 [WBS.md](https://github.com/Srivasavi-vipparla/pm-s04-03-project/edit/main/WBS/wbs.md)
 
@@ -86,23 +86,23 @@ Description : Tick-Tack-Toe is a fun game in free time .
 
 #### Initiation
 
-<img src="pictures/initiation.PNG" alt="drawing"  style="border-radius:50%" />
+<img src="pictures/1.PNG" alt="drawing"  style="border-radius:50%" />
 
 #### Planning
 
-<img src="pictures/planning.PNG" alt="drawing"  style="border-radius:50%" />
+<img src="pictures/2.PNG" alt="drawing"  style="border-radius:50%" />
 
 #### Execution
 
-<img src="pictures/Execution.PNG" alt="drawing"  style="border-radius:50%" />
+<img src="pictures/3.PNG" alt="drawing"  style="border-radius:50%" />
 
 #### Monitoring and control
 
-<img src="pictures/monitoringandcontrol.PNG" alt="drawing"  style="border-radius:50%" />
+<img src="pictures/4.PNG" alt="drawing"  style="border-radius:50%" />
 
 #### Closing
 
-<img src="pictures/closing.PNG" alt="drawing"  style="border-radius:50%" />
+<img src="pictures/5.PNG" alt="drawing"  style="border-radius:50%" />
 
 
 
