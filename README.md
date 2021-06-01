@@ -64,7 +64,7 @@ Description : Tick-Tack-Toe is a fun game in free time .
 * If need any changes in our code, we will implement those modules again and test.
 * Deploy the second version of project
 * If everything is correct, Will do documentation for the Project and Plan for Release.
-*
+
 > Closing
 * Deploy the final version of project
 
