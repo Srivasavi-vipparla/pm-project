@@ -73,7 +73,7 @@ Description : Tick-Tack-Toe is a fun game in free time .
 
 <img src="WBS/wbs 2.PNG" alt="drawing" style="border-radius:50%" />
 
-[WBS.md](https://github.com/Srivasavi-vipparla/pm-s04-03-project/edit/main/WBS/wbs.md)
+[WBS](https://github.com/Srivasavi-vipparla/pm-s04-03-project/tree/main/WBS)
 
 
 
